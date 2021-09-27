@@ -13,7 +13,7 @@ I'm Wellington Vieira
 
 
 
-<h6>My Skills </h6>
+##My Skills :
 
 
 <h6>Actually Learning:</h6>
