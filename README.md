@@ -12,8 +12,8 @@ I'm Wellington Vieira
 <h1>Connect With Me </h1>
 
 <a ref="https://www.linkedin.com/in/wellington-vieira-2a6b701a0/" target="_blank">
-  <img align="center" alt="Wellington-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-
-  width:100%;">
+<img align="center" alt="Wellington-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-
+width:100%;">
 
 
 
