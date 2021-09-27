@@ -17,9 +17,10 @@ I'm Wellington Vieira
 
 
 <h6>Actually Learning:</h6>
-<img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width="50" style="max-width:100%;"></img>
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+<img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" style="max-width:100%;"></img>
+<img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" style="max-width:100%;"></img>
+<img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" style="max-width:100%;"></img>
+
 
 
 <h6>Another Skills:</h6>
