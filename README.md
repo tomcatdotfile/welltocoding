@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+I'm Wellington Vieira
+
+Living in middleeast, Brazil
+
+Developing my skills as a Front-end Developer.
+
+Learning about more HTML, CSS, Javascript.
+
+
+Connect With Me
+
+
+
+<h6>My Skills </h6>
+
+
+<h6>Actually Learning:</h6>
+
+
+<h6>Another Skills:</h6>
+
+
+
+
+
+
+
+
+
+
 <!--
 **welltocoding/welltocoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
