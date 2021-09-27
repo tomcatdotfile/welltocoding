@@ -11,12 +11,16 @@ I'm Wellington Vieira
 
 <h1>Connect With Me </h1>
 
+<a ref="https://www.linkedin.com/in/wellington-vieira-2a6b701a0/" target="_blank">
+  <img align="center" alt="Wellington-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-
+  width:100%;">
+
 
 
 <h1>My Skills</h1>
 
 <h1>Actually Learning:</h1>
-<img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" style="max-width:100%;"></img>
+<img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" style="max-width:100%;"></img>
 <img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" style="max-width:100%;"></img>
 <img src:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" style="max-width:100%;"></img>
 
