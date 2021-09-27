@@ -9,7 +9,7 @@ I'm Wellington Vieira
 ◽Learning about more HTML, CSS, Javascript.
 
 
-Connect With Me
+<h1>Connect With Me </h1>
 
 
 
