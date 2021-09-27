@@ -2,11 +2,11 @@
 
 I'm Wellington Vieira
 
-Living in middleeast, Brazil
+◽Living in middleast, Brazil 🇧🇷 
 
-Developing my skills as a Front-end Developer.
+◽Developing my skills as a Front-end Developer.
 
-Learning about more HTML, CSS, Javascript.
+◽Learning about more HTML, CSS, Javascript.
 
 
 Connect With Me
@@ -17,6 +17,9 @@ Connect With Me
 
 
 <h6>Actually Learning:</h6>
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
 
 
 <h6>Another Skills:</h6>
