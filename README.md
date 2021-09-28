@@ -1,29 +1,3 @@
-### Hi there 👋
-
-I'm Wellington Vieira
-
-◽Living in middleast, Brazil 🇧🇷 
-
-◽Developing my skills as a Front-end Developer.
-
-◽Learning about more HTML, CSS, Javascript.
-
-
-<h1>Connect With Me </h1>
-
-<a ref="https://www.linkedin.com/in/wellington-vieira2a6b701a0/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="40" width="40" style="max-width> />
-
-
-
-<h1>My Skills</h1>
-
-<h1>Actually Learning:</h1>
-
-
-<h1>Another Skills:</h1>
-
-
 
 
 
