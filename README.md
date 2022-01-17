@@ -8,10 +8,10 @@ I'm starting out in this big world of technology. More and more looking for info
 
 -----
 
-- 💼 Soon I will be looking for an internship, to put my knowledge into practice.
+- 💼 I'm looking for an opportunity to put my knowledge into practice.
 - 🖥️ I'm currently learning JavaScript and NodeJS Framework
 - 👯 I try to collaborate in the search for ideas to change the world 
-- 🎓 I'm studying by my own
+- 🎓 Actually I'm studying by my own.
 
 -----
 ## I've had the opportunity to work:
