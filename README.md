@@ -31,14 +31,6 @@ I'm starting out in this big world of technology. More and more looking for info
  <img align="center" alt="3DD1-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-### Machine Learning
-
-<div style="display: inline_block"><br>
- <img align="center" alt="3DD1-jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
- <img align="center" alt="3DD1-PANDAS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
- <img align="center" alt="3DD1-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="3DD1-numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-</div>
 
 ### Tools
 
