@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welltocoding)](https://github.com/anuraghazra/github-readme-stats)
 # How are you ?👋  Nice to meet 😀
-# My name is Edmilson
+# My name is Wellington
 
 -----
 
@@ -9,10 +9,9 @@ I'm starting out in this big world of technology. More and more looking for info
 -----
 
 - 💼 Soon I will be looking for an internship, to put my knowledge into practice.
-- 🖥️ I'm currently learning Java and Spring Framework
-- 👯 I try to collaborate in the search for ideas to change the world
-- ☕ Curiosity: I love coffee 
-- 🎓 I'm majoring in Information Systems
+- 🖥️ I'm currently learning JavaScript and NodeJS Framework
+- 👯 I try to collaborate in the search for ideas to change the world 
+- 🎓 I'm studying by my own
 
 -----
 ## I've had the opportunity to work:
