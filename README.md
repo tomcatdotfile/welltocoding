@@ -39,7 +39,6 @@ I'm starting out in this big world of technology. More and more looking for info
  <img align="center" alt="3DD1-FIGMA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">  
  <img align="center" alt="3DD1-GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="3DD1-GITHUB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
- <img align="center" alt="3DD1-INTELLIJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
  <img align="center" alt="3DD1-VSCODE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="3DD1-linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img align="center" alt="3DD1-ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"> 
