@@ -53,6 +53,7 @@ I'm starting out in this big world of technology. More and more looking for info
 
 ### My contacts:
 
+<i class="fa fa-linkedin" aria-hidden="true"></i>
 
   
 
